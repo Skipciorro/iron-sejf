@@ -44,9 +44,11 @@ Skrypt wymaga zainstalowanych zasobów:
 
 
 
-**Licencja**
-Ten skrypt jest objęty licencją, która zabrania:
 
-Modyfikowania autora skryptu.
-Sprzedawania skryptu.
-Skrypt jest przeznaczony wyłącznie do użytku na serwerach i nie może być wykorzystywany komercyjnie.
+
+Copyright (c) 2025 Skipciorro
+
+Zezwala się na używanie tego skryptu wyłącznie w celach niekomercyjnych. Modyfikowanie, dystrybuowanie ani sprzedaż tego skryptu są zabronione. Skrypt nie może być wykorzystywany w żadnym komercyjnym projekcie ani na serwerze wymagającym opłat. Autorstwo skryptu musi zostać zachowane, a wszelkie zmiany muszą być odpowiednio przypisane do oryginalnego autora.
+
+Ten skrypt jest dostarczany "tak jak jest", bez jakiejkolwiek gwarancji. Autor nie ponosi odpowiedzialności za jakiekolwiek straty wynikłe z używania skryptu.
+
